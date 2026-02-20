@@ -78,9 +78,10 @@ Berea College students kept asking the same questions over and over. I trained a
 
 ## 📖 Learning & Credentials
 
-![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
-![Foundations of Git](https://img.shields.io/badge/Foundations_of_Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS Foundations](https://img.shields.io/badge/AWS_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+[![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/42aab322-746a-4e57-8e80-12a7f2258a49/linked_in_profile)
+[![Foundations of Git](https://img.shields.io/badge/Foundations_of_Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://drive.google.com/file/d/1t95kvSNyFeoLnnJjeCtanGHkBZcX0F14/view?usp=sharing)
+[![AWS Foundations](https://img.shields.io/badge/AWS_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://drive.google.com/file/d/1OTOwLGK6hEa3Xnzos56pRSQWQR041pVR/view?usp=sharing)
+[![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)](https://drive.google.com/file/d/1xxjvfu0oVBXv2ul7qnp9E3cU8HEsxOs8/view?usp=drive_link)
 
 ---
 
