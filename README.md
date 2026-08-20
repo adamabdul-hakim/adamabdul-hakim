@@ -1,24 +1,32 @@
 <div align="center">
 
-# Hey, I'm Abdul-Hakim 👋
+# Hi, I'm Abdul 👋
 
-### I build things that actually work. Then I make them better.
+### I build things that work. Then I make them better.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabdul-hakim9)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adamabdul-hakim)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah.adamson1@gmail.com)
 
 </div>
 
 ---
 
-🐛 &nbsp;I get unreasonably excited when a gnarly bug finally cracks — or when someone uses something I built and just *gets it*
+- I get unreasonably excited when a tough bug finally cracks.
+- This past summer I fixed data-corruption bugs on a platform processing 32B+ records at ServiceNow.
+- Off the keyboard: running, soccer, the gym, and tinkering with electronics.
 
-🌽 &nbsp;Written embedded C++ on a farm, won a fintech competition I had no business winning, taught resistors to people who thought they were a type of protein
+---
 
-📚 &nbsp;Currently diving into data science & analytics on DataCamp — pandas and numpy are growing on me
+## 💼 Where I've worked
 
-⚽ &nbsp;Off the keyboard? Soccer pitch or the gym. The debugging instincts transfer either way
+**ServiceNow** | Dev-Platform ETL Team *(Summer 2026)*
+Fixed data-corruption and data-integrity bugs in the Import Set engine, and eliminated an unbounded query that was causing memory pressure for customers processing tens of billions of records.
+
+**Sponsors for Educational Opportunity** | Full Stack Engineer Intern *(Summer 2025)*
+Built NextNest, a multi-API dashboard unifying weather, flight, and job data, cutting user search time by 40%.
+
+**Purdue University Collaborative Robotics Lab** | Robotics Intern *(Summer 2024)*
+Built an IoT sensor system with Arduino and Raspberry Pi to collect livestock data from 50+ farm animals.
 
 ---
 
@@ -27,6 +35,8 @@
 **Day-to-day**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,7 +60,6 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -62,7 +71,7 @@
 Students were spending more time waiting for feedback than actually learning. So I built a platform that grades them instantly, tracks their progress, and lets instructors focus on teaching instead of paperwork. 100+ students use it. Auto-grading handled what used to take hours.
 
 **[MountieBot](https://github.com/adamabdul-hakim)**
-Berea College students kept asking the same questions over and over. I trained a chatbot to answer them. It got good enough that it handles the majority of campus FAQs without breaking a sweat — or sending anyone to the wrong office.
+Berea College students kept asking the same questions over and over. I trained a chatbot to answer them. It got good enough that it handles the majority of campus FAQs without breaking a sweat, or sending anyone to the wrong office.
 
 ---
 
@@ -86,5 +95,5 @@ Berea College students kept asking the same questions over and over. I trained a
 ---
 
 <div align="center">
-  <sub>Open to internships, interesting problems, and people who care about craft. Let's talk.</sub>
+  <sub>Graduating May 2027. Open to full-time SWE roles.</sub>
 </div>
